@@ -1,4 +1,4 @@
-📘 FS25 Fill Type Texture Maker Python – Beginner Setup & Usage Guide
+## 📘 FS25 Fill Type Texture Maker Python – Beginner Setup & Usage Guide
 
 This tool helps you make Entry Level Farming Simulator 25 fillType textures automatically (like distance, height, displacement, normal maps) using just your main diffuse, While they wont be the absolute best quality and will never be as good as a human artist can do this will help modders that are not artists and don't have access to expensive software or the time to learn and look for free alternatives a descent and free alternative. You will need to read this readme to understand how it works but once you have learned its in and outs it can create your textures in a matter of seconds to minutes.
 
@@ -88,7 +88,8 @@ If you don't:
 * The tool will remake the same image again every time you run it.
 * This causes duplicate folders and wasted processing.
 
-🧹 UNINSTALLING THE TOOL (OPTIONAL)
+
+## 🧹 UNINSTALLING THE TOOL (OPTIONAL)
 
 To uninstall:
 
@@ -108,16 +109,17 @@ Saying "Yes" will remove Python and all related packages installed with the tool
 
 Saying "No" will keep your current Python setup untouched
 
-🖼️ SHORTCUTS & ICONS
+## 🖼️ SHORTCUTS & ICONS
 
 A shortcut to the C:\diffusemakerPython folder will be placed on your Desktop (optional)
 
-The launch_texture_tool.bat file and the folder shortcut will both be assigned the icon:
-diffusemakerPython\dmpIcon.png
+The folder shortcut will be assigned the icon:
+diffusemakerPython\FS25FTTMP.ico
 
 The installer .exe itself will also use this icon
 
-🎉 THAT’S IT!
+
+## 🎉 THAT’S IT!
 
 Keep adding new textures to input\ and double-click launch_texture_tool.bat to convert them.
 
