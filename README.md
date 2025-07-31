@@ -20,7 +20,7 @@ I do not have a sign certificate so Windows will prompt you that it protected yo
    * Install needed tools (Pillow, NumPy, OpenCV)
    * Add texconv.exe to your system so python can use it ✅
 
-3. 📦 Install the GIANTS Texture Tool (Required)
+## 3. 📦 Install the GIANTS Texture Tool (Required) EXTREAMLEY IMPORTANT
 
    * Go to: [https://gdn.giants-software.com/downloads.php](https://gdn.giants-software.com/downloads.php)
    * create an account and login
